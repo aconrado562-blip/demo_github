@@ -61,7 +61,7 @@ demo_github/
 │   ├── controllers/  # Lógica de controladores
 │   └── utils/        # Utilidades
 ├── tests/            # Pruebas
-├── package.json
+├── package.json      # andrea CONRADO 
 └── README.md
 ```
 
